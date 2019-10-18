@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Arun Kumar M N
+Build-Jdk: 11.0.4
+Implementation-Title: auth
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.auth
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/auth
+Created-By: Maven Integration for Eclipse
+
